@@ -1,0 +1,11 @@
+[
+	{"check": false, "text": "Wash the car"},
+	{"check": false, "text": "Do laundries"},
+	{"check": true, "text": "Buy groceries"},
+	{"check": false, "text": "Organize the b-day party"}
+]
+
+
+
+
+
